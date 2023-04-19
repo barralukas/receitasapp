@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O App de Receitas é um projeto mobile em que onde é possível via requisições HTTP buscar em uma API a listagem de receitas, visualizar os ingredientes e o modo de preparo (vídeo e escrito), adicionar/remover a receita dos favoritos, além de ser possível compartilhar em outros aplicativos.
+O App de Receitas é um projeto mobile onde é possível via requisições HTTP buscar em uma API a listagem de receitas, visualizar os ingredientes e o modo de preparo (vídeo e escrito), adicionar/remover a receita dos favoritos, além de ser possível compartilhar em outros aplicativos.
 
 ## 🔖 Layout
 
