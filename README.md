@@ -31,7 +31,7 @@ O App de Receitas é um projeto mobile em que onde é possível via requisiçõe
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [DESSE LINK](<https://barralukas.github.io/linkPage/](https://www.figma.com/file/xxeWSyHN7y7ijJdn1gujBk/App-Receita-F%C3%A1cil-(Copy)?node-id=0%3A1&t=hOz0B80nNAGSukZx-1>)
+Você pode visualizar o projeto através [DESSE LINK](<https://www.figma.com/file/xxeWSyHN7y7ijJdn1gujBk/App-Receita-F%C3%A1cil-(Copy)>)
 
 ## :memo: Licença
 
